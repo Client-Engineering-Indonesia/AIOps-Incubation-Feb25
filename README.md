@@ -9,3 +9,5 @@ password : aiopsworkshop123
 ![image](images/slack-invitation.png)
 
 3. Join slack channel [#aiops-demo-workshop](https://aiops-workshop.slack.com/archives/C089C63MQLE)
+
+4. Open link https://github.com/Client-Engineering-Indonesia/AIOps-Incubation-Feb25/issues for check issues
