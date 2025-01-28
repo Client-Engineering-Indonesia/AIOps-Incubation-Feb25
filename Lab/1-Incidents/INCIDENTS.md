@@ -30,10 +30,6 @@ Important functionalities:
 
 ## Let's start the lab!
 
-## 2.1 Introduce the demo context
-
-**📣 <u>Narration</u>** 
-
 In this demo, we are going to explore how IBM AIOps can help your operations team proactively identify, diagnose, and resolve incidents across mission-critical workloads.
 
 You’ll see how:
@@ -223,49 +219,6 @@ Other events are confirming the hypothesis.
 
 
 IBM AIOps is also capable of collecting metrics from multiple sources and detecting **Metric Anomalies**. It was trained on hundreds or thousands of metrics from the environment and constructs a dynamic baseline (shown in green). The graphic suddenly turns red which relates to detected anomaly when the database is consuming a higher amount of memory than usual.
-
-# TBC
-
-![image](../images/incidents-065.png)
-
->**🚀 <u>Action</u>**
->
->- (1) In **Related Alerts** select some additional alerts.
-
-
-**📣 <u>Narration</u>**
-
-You can display several alerts at the same time to better understand the temporal dependencies
-
-<div style="page-break-after: always;"></div>
-
->**🚀 <u>Action</u>**
->
->- (2) Select a portion of the graph with your mouse to zoom in
-
-
-**📣 <u>Narration</u>**
-
-Now let's zoom in to better see the anomalies
-
-![image](../images/incidents-066.png)
-
->**🚀 <u>Action</u>**
->
->- Hover over a datapoint to show the before/after values. 
-
-
-**📣 <u>Narration</u>**
-
-I can clearly see that the incident caused the **Latencies** to skyrocket and the **Transactions per Seconds** are almost zero. This is yet another confirmation of the source of the problem.
-
->**🚀 <u>Action</u>**
->
->- Close the Metric anomaly details view. 
-
-<div style="page-break-after: always;"></div>
-
-# TBC
 
 ## 2.7 Working with Topology
 
